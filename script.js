@@ -408,7 +408,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       title: "The confession",
       date: "28 Apr 2026",
-      image: "us.JPG",
+      image: "4.jpg",
       quote: "“In the quiet of the night, words became courage, and silence turned into forever.”"
     },
     {
